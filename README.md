@@ -1,6 +1,6 @@
 # jonathandinu.com
 
-Comments/discussion for Jonathan's blog -> https://github.com/jonathandinu/jonathandinu.com/discussions
+Comments/discussion for [Jonathan's blog](https://jonathandinu.com/writing/).
 
 ## Code of Conduct
 
