@@ -9,3 +9,8 @@ To keep things sane here (i.e. organized), if you would like to write (or read) 
 For anything that is not a comment or question on the content of a specific blog post, feel free to create a discussion in the general category (or just say hello 👋)
 
 Thank you for reading 🙏
+
+
+#### Copyright Notice (for site content, not comments)
+
+©️ 2024 Jonathan Dinu. All Rights Reserved. Removal of this copyright notice or reproduction in part or whole of the text, images, and/or code is expressly prohibited. For permission to use the content please contact copyright@jonathandinu.com.
